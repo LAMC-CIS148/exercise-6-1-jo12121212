@@ -122,7 +122,9 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
-
+aside h1 {
+	color: #800000;
+}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
