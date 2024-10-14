@@ -62,7 +62,9 @@ main {
 }
 main h1 {
 	font-size: 150%;
-	padding: .3em 0;
+	padding-top: .5ems;
+	padding-bottom: .25ems;
+	margins: 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
 }
@@ -105,7 +107,13 @@ article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
-
+article img {
+	float:right;
+	margin-top: 1ems;
+	margin-bottom: 1ems;
+	margin-left: 1ems;
+	border: 1px black;
+}
 /* the styles for the aside */
 
 aside h3 {
