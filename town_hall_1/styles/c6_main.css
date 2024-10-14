@@ -112,6 +112,7 @@ article img {
 	margin-bottom: 1ems;
 	margin-left: 1ems;
 	border: 1px solid black;
+	padding-bottom: 0px;
 }
 /* the styles for the aside */
 
